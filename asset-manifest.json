@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/school-app/static/css/main.e6b3014b.chunk.css",
+    "main.js": "/school-app/static/js/main.856c6eaa.chunk.js",
+    "main.js.map": "/school-app/static/js/main.856c6eaa.chunk.js.map",
+    "runtime-main.js": "/school-app/static/js/runtime-main.fb72114b.js",
+    "runtime-main.js.map": "/school-app/static/js/runtime-main.fb72114b.js.map",
+    "static/css/2.e5280680.chunk.css": "/school-app/static/css/2.e5280680.chunk.css",
+    "static/js/2.cd3f7fe9.chunk.js": "/school-app/static/js/2.cd3f7fe9.chunk.js",
+    "static/js/2.cd3f7fe9.chunk.js.map": "/school-app/static/js/2.cd3f7fe9.chunk.js.map",
+    "static/js/3.8e2322b5.chunk.js": "/school-app/static/js/3.8e2322b5.chunk.js",
+    "static/js/3.8e2322b5.chunk.js.map": "/school-app/static/js/3.8e2322b5.chunk.js.map",
+    "index.html": "/school-app/index.html",
+    "static/css/2.e5280680.chunk.css.map": "/school-app/static/css/2.e5280680.chunk.css.map",
+    "static/css/main.e6b3014b.chunk.css.map": "/school-app/static/css/main.e6b3014b.chunk.css.map",
+    "static/js/2.cd3f7fe9.chunk.js.LICENSE.txt": "/school-app/static/js/2.cd3f7fe9.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/school-app/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.6ce24c58.svg": "/school-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb72114b.js",
+    "static/css/2.e5280680.chunk.css",
+    "static/js/2.cd3f7fe9.chunk.js",
+    "static/css/main.e6b3014b.chunk.css",
+    "static/js/main.856c6eaa.chunk.js"
+  ]
+}
